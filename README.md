@@ -1,16 +1,17 @@
 # ecogo
 
-A new Flutter project.
+A new ecommerce Flutter project.
 
-## Getting Started
+#Functionalities
 
-This project is a starting point for a Flutter application.
+This app is simple e-commerce app model
+Api Integration and State management such as Provider is used
+We can view details of product
+add to cart
+and delete from cart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Simple ecommerce app
+#Homepage 
+#Cart
+#Details
+![ecogo](https://github.com/mirfa695/Ecogo/assets/84218249/8daf22a7-e0f8-46e7-944a-36dd86558076)
